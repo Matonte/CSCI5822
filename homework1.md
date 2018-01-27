@@ -1,19 +1,18 @@
-    Michael Matonte
-
+    
+    
+```    
+Michael Matonte
 CSCI 5822
-
 1.22.17
-
 Homework 1
-
-
 ```
 
+```
     Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 ```
 
 An essential difficulty is a factor in some activity that makes it hard. The saying “its a feature, not a bug” comes to mind. Essential difficulties will always occur with an activity without substantially changing the nature of the activity. An example of an essential difficulty would be the need to produce enough lift from wind resistance in flight to overcome gravity. This always has and will always limit aircraft building an design.
-`
+
 
 ```
     Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
@@ -43,7 +42,6 @@ Invisibility is a unique essential difficulty to Software Engineering compared t
 Engineering disciplines. The very fact that you cannot create a literal visualization of the program beyond simple object or activity diagrams makes understanding what you are ultimately working towards more difficult. Any data structure, control structure, or method doesn't actually really exist anywhere. You simply type such things up, compile or build them and check that their behavior at run time is same the behavior your flow charts and diagrams show that they should have. The data structure should have its text read through an API to a GUI and display those text contents on the screen. Because of them, only abstract representations of results can be shown as the actual artifacts are simply instructions to the patterns a computer's transistors will fire to create a certain behavior.
 
 ```
-
     Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
 ```
 
