@@ -6,11 +6,18 @@ CSCI 5822
 
 Homework 1
 
+
+```
+
     Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
+```
 
 An essential difficulty is a factor in some activity that makes it hard. The saying “its a feature, not a bug” comes to mind. Essential difficulties will always occur with an activity without substantially changing the nature of the activity. An example of an essential difficulty would be the need to produce enough lift from wind resistance in flight to overcome gravity. This always has and will always limit aircraft building an design.
+`
 
+```
     Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
+```
 
     An accidental difficulty is a factor that only exists simply because of a way the activity is currently being performed. Accidental difficulties can be removed from an activity without it changing the nature or goals of an activity. An example of an accidental difficulty would be that in athletics, there are cost or availability constraints in nutrition. This difficulty could be overcome by learning about inexpensive supplements or pre-made meals.
 
@@ -23,9 +30,7 @@ The four essential difficulties he talked about are Complexity, Changeability, C
 Complexity is where difficulty develops from all the parts and relationships that have to be managed for effective delivery. This is usually complicated by external and non- technical considerations that influence the delivery. An example of Complexity in a non- technical world could be the current negotiations in Government where you not only have to deal with different immediately perceived demands from the actors, but also with the fluidity and long-term concerns of the actors' needs.
 
 
-Changeability is where difficulty develops from not just current complexities needing to be resolved, but also the fact that clients don't know or never appear to know what they want and so the requirements are in constant flux and beyond that, the technology is in constant flux and competitors are always trying to do something new as well. This is all on top of the tendency for
-
-the environment in this software programs never being the same. An example of the difficulty of
+Changeability is where difficulty develops from not just current complexities needing to be resolved, but also the fact that clients don't know or never appear to know what they want and so the requirements are in constant flux and beyond that, the technology is in constant flux and competitors are always trying to do something new as well. This is all on top of the tendency forthe environment in this software programs never being the same. An example of the difficulty of
 
 Changeability would be that not only might the client change, but even if the client remains the same, the client's demands and policies might change. Imagine being a Government contractor in the time immediately before and after a consequential election!
 
@@ -37,9 +42,10 @@ Invisibility is a unique essential difficulty to Software Engineering compared t
 
 Engineering disciplines. The very fact that you cannot create a literal visualization of the program beyond simple object or activity diagrams makes understanding what you are ultimately working towards more difficult. Any data structure, control structure, or method doesn't actually really exist anywhere. You simply type such things up, compile or build them and check that their behavior at run time is same the behavior your flow charts and diagrams show that they should have. The data structure should have its text read through an API to a GUI and display those text contents on the screen. Because of them, only abstract representations of results can be shown as the actual artifacts are simply instructions to the patterns a computer's transistors will fire to create a certain behavior.
 
-
+```
 
     Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
+```
 
 Literally, Brooks means that there will never be anything new in Software Engineering that alone with make it ten times easier. Seriously, he argues that there is simply no one thing you can do to make things much easier in a way that would substantially change the nature of Software Engineering, His argument for why this is the case is simply that there are so many factors that are inherently difficult in Software Engineering that there is not a single thing that can overcome enough of these difficulties at once to make Software Engineering much easier that it is.
 
@@ -53,9 +59,9 @@ details and factual explanations for its existence and behavior. Chemical Engine
 
 This analogy applied to Computer Science would be that a Computer Scientist studies the details and factual explanation of how information exists in the universe while the Software Engineer finds and solves problems using that knowledge. An example of this could be how a Software Engineer designs a program to access shared files in a quick manner with a tree data-structure that a Computer Scientists has theorized.
 
-
+```
     In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
-
+```
 
 The concept of iteration is important because in modern Software Engineering, things are complex and have to be done bit after bit in order to ever become “done” and further modern Engineering Management, there is always the objective of being able to come up with something quickly and steadily improve the product until it is ready for deployment.
 
