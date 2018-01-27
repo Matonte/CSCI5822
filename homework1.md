@@ -6,7 +6,7 @@ CSCI 5822
 1.22.17
 Homework 1
 
-# **1 – Essential Difficulties**
+# ** 1 – Essential Difficulties**
     Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 
 
@@ -14,13 +14,13 @@ Homework 1
 An essential difficulty is a factor in some activity that makes it hard. The saying “its a feature, not a bug” comes to mind. Essential difficulties will always occur with an activity without substantially changing the nature of the activity. An example of an essential difficulty would be the need to produce enough lift from wind resistance in flight to overcome gravity. This always has and will always limit aircraft building an design.
 
 
-# **2 – Accidental Difficulties**
+# ** 2 – Accidental Difficulties**
     Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
 
 # 2 Answer
     An accidental difficulty is a factor that only exists simply because of a way the activity is currently being performed. Accidental difficulties can be removed from an activity without it changing the nature or goals of an activity. An example of an accidental difficulty would be that in athletics, there are cost or availability constraints in nutrition. This difficulty could be overcome by learning about inexpensive supplements or pre-made meals.
 
-# **3 – Brooks’ Essential Difficulty**
+# ** 3 – Brooks’ Essential Difficulty**
     List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties. The four essential difficulties he talked about are Complexity, Changeability, Conformity, and Invisibility.
 
 # 3 Answer 
@@ -37,7 +37,7 @@ An essential difficulty is a factor in some activity that makes it hard. The say
 
 *Invisibility* is a unique essential difficulty to Software Engineering compared to many other Engineering disciplines. The very fact that you cannot create a literal visualization of the program beyond simple object or activity diagrams makes understanding what you are ultimately working towards more difficult. Any data structure, control structure, or method doesn't actually really exist anywhere. You simply type such things up, compile or build them and check that their behavior at run time is same the behavior your flow charts and diagrams show that they should have. The data structure should have its text read through an API to a GUI and display those text contents on the screen. Because of them, only abstract representations of results can be shown as the actual artifacts are simply instructions to the patterns a computer's transistors will fire to create a certain behavior.
 
- #** 4- “No Silver Bullet” ** 
+# ** 4- “No Silver Bullet” ** 
     Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
 
 # Answer 
@@ -54,7 +54,7 @@ This analogy applied to Computer Science would be that a Computer Scientist stud
 
 # ** 6- The Lecture Terms **
     In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
-```
+
 
 # Answer
 The concept of *iteration* is important because in modern Software Engineering, things are complex and have to be done bit after bit in order to ever become “done” and further modern Engineering Management, there is always the objective of being able to come up with something quickly and steadily improve the product until it is ready for deployment.
