@@ -37,13 +37,13 @@ An essential difficulty is a factor in some activity that makes it hard. The say
 
 *Invisibility* is a unique essential difficulty to Software Engineering compared to many other Engineering disciplines. The very fact that you cannot create a literal visualization of the program beyond simple object or activity diagrams makes understanding what you are ultimately working towards more difficult. Any data structure, control structure, or method doesn't actually really exist anywhere. You simply type such things up, compile or build them and check that their behavior at run time is same the behavior your flow charts and diagrams show that they should have. The data structure should have its text read through an API to a GUI and display those text contents on the screen. Because of them, only abstract representations of results can be shown as the actual artifacts are simply instructions to the patterns a computer's transistors will fire to create a certain behavior.
 
- #** 4- “No Silver Bullet” ** 
+# ** 4 “No Silver Bullet” ** 
     Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
 
 # Answer 
 Literally, Brooks means that there will never be anything new in Software Engineering that alone with make it ten times easier. Seriously, he argues that there is simply no one thing you can do to make things much easier in a way that would substantially change the nature of Software Engineering, His argument for why this is the case is simply that there are so many factors that are inherently difficult in Software Engineering that there is not a single thing that can overcome enough of these difficulties at once to make Software Engineering much easier that it is.
 
-# ** 5- The Scientists and the Engineers **
+# ** 5 The Scientists and the Engineers **
     In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
 # Answer
